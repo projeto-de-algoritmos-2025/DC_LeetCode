@@ -15,6 +15,10 @@ Para explorar o conteúdo do tópico de Dividir e Conquistar, a dupla escolheu q
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+[315. Count of Smaller Numbers After Self - Nível Difícil](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/?envType=problem-list-v2&envId=divide-and-conquer)
+
+[327. Count of Range Sum - Nível Difícil](https://leetcode.com/problems/count-of-range-sum/description/?envType=problem-list-v2&envId=divide-and-conquer)
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
