@@ -28,6 +28,12 @@ Para resolver o exercício, eu calculei os prefix sums do array para permitir co
 
 ![327](/assets/327.png)
 
+[493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
+
+Para resolver este exercício, eu utilizei a técnica de **contagem de inversões** adaptada: primeiro dividi o array em duas metades recursivamente (merge sort), e antes de fazer o merge, para cada elemento na metade esquerda avancei um ponteiro na metade direita enquanto `left[i] > 2 * right[j]`, acumulando esses avanços como contagens de pares reversos. Em seguida, executei o merge padrão para juntar as duas metades ordenadas e garantir que as próximas recursões também trabalhassem sobre segmentos ordenados. Esse procedimento mantém a complexidade em O(n log n) e conta eficientemente todos os pares `(i, j)` tais que `nums[i] > 2 * nums[j]`.
+
+![493](/assets/493.png)
+
 [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
 
 Para resolver este problema, primeiro construí o array `A[i] = nums1[i] − nums2[i]` e então usei a técnica de **contagem de inversões** com merge-sort modificado para contar, em $O(n \log n)$, todos os pares $i<j$ que satisfazem $A[i] \le A[j] + \text{diff}$. Durante o merge das metades já ordenadas, para cada valor da parte esquerda eu avancei um ponteiro na parte direita até que a desigualdade não fosse mais válida e somei o restante de elementos como inversões “válidas”. Em seguida, realizei o merge padrão para manter o array ordenado e garantir o desempenho nas recursões superiores.
@@ -37,4 +43,4 @@ Para resolver este problema, primeiro construí o array `A[i] = nums1[i] − num
 
 ## Instalação
 
-**Linguagem**: C#, Ruby, Go<br>
+**Linguagem**: C#, Go, Ruby, TypeScript <br>
