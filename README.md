@@ -30,6 +30,9 @@ Para resolver o exercício, eu calculei os prefix sums do array para permitir co
 
 [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
 
+Para resolver este problema, primeiro construí o array `A[i] = nums1[i] − nums2[i]` e então usei a técnica de **contagem de inversões** com merge-sort modificado para contar, em $O(n \log n)$, todos os pares $i<j$ que satisfazem $A[i] \le A[j] + \text{diff}$. Durante o merge das metades já ordenadas, para cada valor da parte esquerda eu avancei um ponteiro na parte direita até que a desigualdade não fosse mais válida e somei o restante de elementos como inversões “válidas”. Em seguida, realizei o merge padrão para manter o array ordenado e garantir o desempenho nas recursões superiores.
+
+
 ![2426](/assets/2426.png)
 
 ## Instalação
