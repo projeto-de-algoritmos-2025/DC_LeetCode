@@ -28,6 +28,10 @@ Para resolver o exercício, eu calculei os prefix sums do array para permitir co
 
 ![327](/assets/327.png)
 
+[2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+
+![2426](/assets/2426.png)
+
 ## Instalação
 
-**Linguagem**: Ruby, Go<br>
+**Linguagem**: C#, Ruby, Go<br>
