@@ -20,6 +20,9 @@ Para explorar o conteúdo do tópico de Dividir e Conquistar, a dupla escolheu q
 
 https://github.com/user-attachments/assets/fef81dc9-d28d-40c2-8242-17fc7fcd83a6
 
+### Vídeo Apresentando 315 e 327
+
+https://github.com/user-attachments/assets/7c97940e-5233-404e-b833-cadb8bd02481
 
 ## Screenshots
 
