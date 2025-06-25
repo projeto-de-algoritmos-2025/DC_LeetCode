@@ -14,6 +14,12 @@
 
 Para explorar o conteúdo do tópico de Dividir e Conquistar, a dupla escolheu quatro exercícios de nível DIFÍCIL na plataforma online [LeetCode](https://leetcode.com/).
 
+## Vídeos
+
+### Vídeo Apresentando 493 e 2426
+
+Uploading 493 e 2426.mp4…
+
 ## Screenshots
 
 [315. Count of Smaller Numbers After Self - Nível Difícil](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/?envType=problem-list-v2&envId=divide-and-conquer)
