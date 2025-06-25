@@ -18,7 +18,11 @@ Para explorar o conteúdo do tópico de Dividir e Conquistar, a dupla escolheu q
 
 ### Vídeo Apresentando 493 e 2426
 
+
+
 Uploading 493 e 2426.mp4…
+
+
 
 ## Screenshots
 
