@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/285fc6f4-cf79-44ed-99d0-baf4a0c87d9f
 # LeetCode
 
 **Número da Lista**: 4<br>
@@ -18,10 +20,7 @@ Para explorar o conteúdo do tópico de Dividir e Conquistar, a dupla escolheu q
 
 ### Vídeo Apresentando 493 e 2426
 
-
-
-Uploading 493 e 2426.mp4…
-
+https://github.com/user-attachments/assets/fef81dc9-d28d-40c2-8242-17fc7fcd83a6
 
 
 ## Screenshots
