@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/285fc6f4-cf79-44ed-99d0-baf4a0c87d9f
 # LeetCode
 
 **Número da Lista**: 4<br>
